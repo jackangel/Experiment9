@@ -85,7 +85,7 @@ But when it comes to AI research, **Gemini 2.5 Pro** is simply better. It can de
 
 And now, the biggest takeaway of Experiment 9
 
-
+![The horrors](img_00096_.png)
 
 # Is Your Tokenizer Sacrificing Your Model's Sanity? A Study in "Outer" Space
 
