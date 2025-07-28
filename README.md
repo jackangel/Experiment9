@@ -178,3 +178,7 @@ For my Lovecraftian oracle, the "bad" tokenizer with its explicit space token pr
 So, if your model's loss is stagnant and its outputs are gibberish, don't just blame your architecture or your learning rate. Stare into the abyss of your data pipeline and ask yourself a terrifying question:
 
 **Have I given my model enough space?**
+
+
+
+You can find the checkpoint here if you want to test the model - https://huggingface.co/jackangel/wassm/blob/main/training_checkpoint_v1_streaming.pth
